@@ -8,15 +8,19 @@ Ce présent document a pour but de fixer le cahier des charges, c'est-à-dire de
 
 ### 1.2. Portée de l'application 
 
-Développer le goût des plus jeunes pour la lecture est un enjeu social important. L'application vise par un lecteur gamifié, des illustations animées, et des histoires mouvantes à développer un attrait pour lire.
+Développer le goût des plus jeunes pour la lecture est un enjeu social important. L'application vise par un lecteur gamifié, des illustations animées, et des histoires mouvantes à aider au développement d'un attrait pour la lecture chez les jeunes.
 
 ### 1.3. Public visé
 
-L'application s'adresse principalement aux parents d'enfants en bas-âge et aux enfants entre 3 et 16 ans. L'application prévoit de séparer les enfants en tranche d'âge afin d'offrir des histoires adaptées :
-    - Une première tranche entre **3 et 6 ans**. Dans cette tranche, on considère que l'application est utilisée avec une présence parentale dans le cadre d'une découverte/apprentissage de la lecture ou par le parent lui même pour raconter des histoires à son enfant
-    - Une deuxième tranche entre **7 et 10 ans**. L'enfant peut être amenée à utiliser l'application avec une plus grande autonomie.
-    - Une troisième tranche entre **11 et 13 ans**.
-    - Une dernière tranche entre **14 et 16 ans**.
+L'application s'adresse principalement aux parents d'enfants en bas-âge et aux enfants entre 3 et 16 ans. L'application prévoit de séparer les enfants en tranche d'âge afin d'offrir des histoires adaptées aux différents âges :
+    - Une première tranche entre **3 et 6 ans** :
+    Dans cette tranche, on considère que l'application est utilisée par le parent lui-même pour raconter des histoires à son enfant. Dans ce cadre, l'application serait plutôt utilisée dans un temps calme ou le soir pour apporter un support pour aider à endormir l'enfant. Dans cette tranche d'âge, l'application pourrait aussi être utilisée par l'enfant avec une présence parentale dans le cadre d'une découverte/apprentissage de la lecture. 
+    - Une deuxième tranche entre **7 et 10 ans** :
+    L'enfant peut être amenée à utiliser l'application avec une plus grande autonomie. C'est souvent dans cette tranche d'âge que les enfants peuvent être diagnostiqué·es d'un TDAH. L'application peut être avoir un intérêt à ce moment pour générer un interêt pour l'enfant, lui donner des objectifs de lecture favorisant sa concentration grâce à la gamification de cette activité. Ce qui peut avoir de l'intérêt pour les enfants TDAH peut servir également aux enfants qui n'en souffrent pas et donc permettre d'initier et de donner goût à la lecture à un âge où les enfants consolident leurs acquis en lecture.
+    - Une troisième tranche entre **11 et 13 ans** : 
+    Cette tranche d'âge représente l'entrée et les premères années au collège en France. A cet âge, les habitudes concernant la lecture sont déjà souvent installés avec des enfants qui aiment cette activité et d'autres qui y sont peu sensibles. Cette dernière catégorie se retrouve souvent forcée notamment pour suivre son cursus à ire des ouvrages. L'application avec son système de gamification peut permettre de rendre cette activité plus distrayante et ludique pour ces enfants. Les histoires seront aussi disponibles au moins en 3 langues permettant ainsi de soutenir l'apprentissage des deuxièmes langues qui sont débutées au collège.
+    - Une dernière tranche entre **14 et 16 ans** :
+    A cet âge, correspondant à la fin du collège et le début du lycée, l'adolescent a souvent beaucoup de cours, de devoirs et de lectures à faire pour l'école. L'application permettrait d'être un support intéressant pour que la lecture reste quelque chose de plaisant et renforce l'intérêt de l'adolescent·e pour les genres de littérature qu'il ou elle préfère.
 
 ### 1.4. Définitions, acronymes et abréviations
 
