@@ -1,3 +1,40 @@
+# Interview Alix
+
+## Points soulevés
+- Alix fait directement remarquer un problème dans l'utilisation autonome et le système d'abonnement. Implication des parents important pour lui.
+- Proposition d'ajout dans le lecteur d la possibilité de modifier les couleurs de fond (les fonds colorés aident les enfants dyslexiques). Et propose des polices sans empatements : Arial ou Cambria en 14 avec interligne fort.
+=> penser à ajouter beaucoup de paramètres modifiables au lecteur d'histoires.
+- Proposition à la fin de l'histoire que l'enfant réponde à une question assez générique: "Que penses-tu que le héros/l'héroïne ressent à la fin de l'histoire?" etc.
+- Proposition d'une notification paramètrable fait aux parents pour les notifier régulièrement de l'avancée de la lecture de l'enfant, du nombres d'histoires afin qu'ils ou elles puissent engager une discussion avec l'enfant.
+- Proposition d'un mode exercice en mode texte à trou qui permettrait de conjuguer un mot ou selection choix multiples vocabulaire adapté.
+- Proposition d'ajouter une fonctionnalité d'impression de l'histoire qui plaît l'enfant (lien affilié avec un imprimeur à la demande?)
+
+## User Journey
+
+```mermaid
+journey
+    title Focus
+    section Accueil
+        Affichage: 4
+    section Ma bibliothèque
+        Affichage: 5
+    section Lecteur
+        Affichage : 2
+    section Les avatars
+        Affichage:3
+    section Mes récompenses
+        Affichage: 4
+    section Mon Profil
+        Affichage: 4
+    section Contrôle Parental
+        Affichage: 1
+    section Ajouter un enfant 
+        Affichage: 4
+    section Se connecter
+        Affichage: 3
+    section S'abonner 
+        Affichage: 3
+```
 # USER JOURNEY ANTONIETTA 
 
 Antonietta souligne qu'il pourrait être plus intéressant pour un enfant de pouvoir tester la personnalisation des avatars avant de pouvoir demander au parent de s'abonner, sinon il risque de se désintéresser de l'application.

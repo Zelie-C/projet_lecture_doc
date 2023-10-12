@@ -37,9 +37,7 @@ L'application est utilsée dans un cadre divertissant et familial. Il permettra 
 ### 2.2. Fonctionnalités du produit
 
 L'application proposent différentes fonctionnalités :
-- une connexion pour s'authentifier
-<!-- - un choix de tranche d'âge
-- un choix de thèmes d'histoire à lire -->
+- une connexion pour s'authentifier  
 - une possibilité d'enregistrer dans une bibliothèque ses histoires préférées
 - une possibilité d'importer ses livres numériques dans la bibliothèque de l'application
 - un lecteur de pdf/epub pour les livres numériques importés et un pour les histoires interactives.
@@ -58,7 +56,8 @@ Caractéristiques des utilisateurs :
 
 ### 2.5. Contraintes de conception et d'implémentation
 
-
+<!-- - un choix de tranche d'âge
+- un choix de thèmes d'histoire à lire -->
 
 <!-- ## Cibles de l'application
 
